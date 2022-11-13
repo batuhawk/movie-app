@@ -1,0 +1,15 @@
+{
+    "Turkish"                   : "Turkish",    
+    "English"                   : "English",
+    "Name"                      : "Name: ",
+    "Relase date"               : "Relase Date: ",
+    "Summary"                   : "Summary: ",
+    "Genres"                    : "Genres: ",
+    "Rate"                      :  "Rate: ",
+    "Detail"                    : "Detail",
+    "Please search a movie"     : "Please search a movie...",
+    "Most popular movies"       : "Most Popular Movies",
+    "Least popular movies"      : "Least Popular Movies",
+    "Most rating movies"        : "Most Rating Movies",
+    "Least rating movies"       : "Least Rating Movies"
+}

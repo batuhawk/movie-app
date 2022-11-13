@@ -1,0 +1,15 @@
+{
+    "Turkish"                   : "Türkçe",
+    "English"                   : "İngilizce",
+    "Name"                      : "Adı: ",
+    "Relase date"               : "Yayınlanma Tarihi: ",
+    "Summary"                   : "Özet: ",
+    "Genres"                    : "Türler: ",
+    "Rate"                      :  "Oran: ",
+    "Detail"                    : "Detay",
+    "Please search a movie"     : "Lütfen bir film arayınız...",
+    "Most popular movies"       : "En Popüler Filmler",
+    "Least popular movies"      : "En Az Popüler Olan Filmler",
+    "Most rating movies"        : "En Çok Oy Almış Filmler",
+    "Least rating movies"       : "En Az Oy Almış Filmler"
+}
