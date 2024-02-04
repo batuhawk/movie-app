@@ -21,13 +21,13 @@ This is another weekend project for learning the mentality of Redux. I worked wi
 ## Project setup
 
 ```
-npm install
+pnpm install
 ```
 
 ### Project start
 
 ```
-npm start
+pnpm run dev
 ```
 
 ## License

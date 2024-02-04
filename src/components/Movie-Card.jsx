@@ -1,4 +1,3 @@
-import React from "react";
 import { useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useDispatch } from "react-redux";
@@ -12,13 +11,13 @@ const MovieCard = (props) => {
   const navigate = useNavigate();
 
   return (
-    <div className='movie-card'>
+    <div className="movie-card">
       <img
         src={movieImage + props.movies.poster_path}
         alt={props.movies.title}
-        className='movie-card__image'
+        className="movie-card__image"
       />
-      <div className='movie-card__preview'>
+      <div className="movie-card__preview">
         <h4>
           {t("Name")}
           {props.movies.title}

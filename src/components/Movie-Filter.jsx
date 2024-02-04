@@ -1,4 +1,3 @@
-import React from "react";
 import { useTranslation } from "react-i18next";
 import { useDispatch } from "react-redux";
 
@@ -25,11 +24,11 @@ const MovieFilter = () => {
   };
 
   return (
-    <select className='movie-filter' onChange={selectFilter}>
-      <option value='[popular,1]'>{t("Most popular movies")}</option>
-      <option value='[popular,500]'>{t("Least popular movies")}</option>
-      <option value='[top_rated,1]'>{t("Most rating movies")}</option>
-      <option value='[top_rated,500]'>{t("Least rating movies")}</option>
+    <select className="movie-filter" onChange={selectFilter}>
+      <option value="[popular,1]">{t("Most popular movies")}</option>
+      <option value="[popular,500]">{t("Least popular movies")}</option>
+      <option value="[top_rated,1]">{t("Most rating movies")}</option>
+      <option value="[top_rated,500]">{t("Least rating movies")}</option>
     </select>
   );
 };

@@ -1,4 +1,3 @@
-import React from "react";
 import { useTranslation } from "react-i18next";
 import { useDispatch } from "react-redux";
 
@@ -18,9 +17,9 @@ const MovieSearch = () => {
 
   return (
     <input
-      type='text'
+      type="text"
       placeholder={t("Please search a movie")}
-      className='movie-search'
+      className="movie-search"
       onKeyUp={searchMovie}
     />
   );
